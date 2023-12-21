@@ -1,12 +1,10 @@
-name: "Cookmod"
-author: 
+name: "EASmod"
+author:
 '''
- [orange[]]arc
- [blue[]]hikaritake  
- [green[]]LineOpenChat:Mindustry
+ [blue[]]suisyou
 '''
-displayName: "cookmod"
-description: "With this MOD you can make potatoes."
+displayName: "EASmod"
+description: This is a MOD that adds planets where you can use Elekil and Serpulo materials.
 version: "2.0"
 minGameVersion: 145.1
 hidden: false
