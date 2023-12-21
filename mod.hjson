@@ -1,0 +1,12 @@
+name: "Cookmod"
+author: 
+'''
+ [orange[]]arc
+ [blue[]]hikaritake  
+ [green[]]LineOpenChat:Mindustry
+'''
+displayName: "cookmod"
+description: "With this MOD you can make potatoes."
+version: "2.0"
+minGameVersion: 145.1
+hidden: false
