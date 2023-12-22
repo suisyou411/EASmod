@@ -16,7 +16,7 @@ isFirstTier: true
 squareSprite: false
 
 //必要素材
-requirements: [Silicon/1000
+requirements: [silicon/1000
 beryllium/800
 metaglass/800
 ]
