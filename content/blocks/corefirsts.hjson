@@ -28,5 +28,5 @@ research: {
     name: @HD189733bplanets
     //テックツリーと対応する惑星
     planet:HD189733b
-
+｝
 alwaysUnlocked: true
