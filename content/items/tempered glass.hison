@@ -1,0 +1,12 @@
+type: material
+name: tempered glass
+color: 9AE21B
+description: 強化されたメタガラス。衝撃に強い
+research: {
+    parent: metaglass
+    requirements: [
+　　　　　metaglass/200
+//後で材料増やすかも
+    ]
+}
+//もしかしたら後で強化ガラス消すかも
