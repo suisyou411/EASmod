@@ -1,7 +1,7 @@
 #name: corefirst
 type: CoreBlock
 category: effect
-health: 2600
+health: 5000
 size: 3
 
 #incinerateNonBuildable: false
