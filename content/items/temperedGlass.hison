@@ -6,7 +6,5 @@ research: {
     parent: metaglass
     requirements: [
 　　　　　metaglass/200
-//後で材料増やすかも
     ]
 }
-//もしかしたら後で強化ガラス消すかも
