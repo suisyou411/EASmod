@@ -1,7 +1,7 @@
 type: material
-name: temperedGlass
+name: 強化ガラス
 color: 9AE21B
-description: 強化されたメタガラス。衝撃に強い
+description: Reinforced Metaglass. Shock resistant
 research: {
     parent: metaglass
     requirements: [
