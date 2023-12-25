@@ -1,5 +1,5 @@
 type: material
-name: tempered glass
+name: temperedGlass
 color: 9AE21B
 description: 強化されたメタガラス。衝撃に強い
 research: {
