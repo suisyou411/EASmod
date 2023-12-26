@@ -1,6 +1,6 @@
 type: material
 name: 強化ガラス
-description: "Reinforced Metaglass. Shock resistant"
+description: "強化されたメタガラス。衝撃に強い"
 color: 9AE21B
 research: {
     parent: metaglass
