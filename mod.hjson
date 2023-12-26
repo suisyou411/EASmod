@@ -4,7 +4,7 @@ author:
  [blue[]]suisyou
 '''
 displayName: "EASmod"
-description: あThis is a MOD that adds planets where you can use Elekil and Serpulo materials.
+description: This is a MOD that adds planets where you can use Elekil and Serpulo materials.
 version: "2.0"
 minGameVersion: 145.1
 hidden: false
