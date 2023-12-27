@@ -3,7 +3,7 @@ name: ダイヤモンド
 color: 9AE21B
 description: 高度なレーザー武器の制作に必要
 research: {
-    parent: /*後で書く＊\
+    parent: corefirsts
 //開発材料
     requirements: [
       
