@@ -1,4 +1,4 @@
-name:HD189733b
+#name:HD189733b
 generator: SerpuloPlanetGenerator
 parent: sun
 iconColor: 30d5c8
