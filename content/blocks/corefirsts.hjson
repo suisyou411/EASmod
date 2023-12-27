@@ -23,7 +23,7 @@ metaglass/800
 //テックツリーを追加
 research: {
     //一番最初の基準ブロックにする:core
-    root: core
+    root: true/false
     //テックツリーの名前
     name: @HD189733bplanets
     //テックツリーと対応する惑星
