@@ -3,8 +3,8 @@ name: 強化ガラス
 description: Reinforced Metaglass. Shock resistant
 color: 9AE21B
 research: {
-    parent: Metaglass
+    parent: metaglass
     requirements: [
-　　　　　Metaglass/200
+　　　　　metaglass/200
 　　]
 }
