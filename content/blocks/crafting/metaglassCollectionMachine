@@ -2,7 +2,27 @@ type: GenericCrafter
 name: メタガラス収集機
 description:
 '''
-//後で書く
+メタガラスの粒子を空気中から集める
 '''
-outputItem: 
+outputItem: metaglass/1
 size: 2
+hasPower: true
+hasItems: true
+craftTime: 60
+updateEffect: /＊エフェクト＊\
+
+consumes: {
+	power: 105
+	items: {
+		items: [
+		　
+		]
+	}
+}
+requirements: [
+ lead/30
+ silicon/25
+]
+category: crafting
+research: core
+alwaysUnlocked: true
