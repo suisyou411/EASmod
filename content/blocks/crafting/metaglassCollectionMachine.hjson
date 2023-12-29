@@ -9,7 +9,7 @@ size: 2
 hasPower: true
 hasItems: true
 craftTime: 60
-updateEffect: /＊エフェクト＊/
+updateEffect: /*エフェクト*/
 
 consumes: {
 	power: 105
