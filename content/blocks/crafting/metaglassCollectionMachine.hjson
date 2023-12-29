@@ -13,11 +13,6 @@ updateEffect: /＊エフェクト＊\
 
 consumes: {
 	power: 105
-	items: {
-		items: [
-		　
-		]
-	}
 }
 requirements: [
  lead/30
