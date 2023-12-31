@@ -1,9 +1,6 @@
 type: GenericCrafter
 name: メタガラス収集機
-description:
-'''
-メタガラスの粒子を空気中から集める
-'''
+description: メタガラスの粒子を空気中から集める
 outputItem: metaglass/1
 size: 2
 hasPower: true
