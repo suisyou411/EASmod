@@ -11,9 +11,6 @@ hasItems: true
 craftTime: 60
 updateEffect: /*エフェクト*/
 
-consumes: {
-	power: 105
-}
 requirements: [
  lead/30
  silicon/25
