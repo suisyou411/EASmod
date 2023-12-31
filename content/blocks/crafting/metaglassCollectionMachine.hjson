@@ -8,7 +8,7 @@ hasItems: true
 craftTime: 60
 updateEffect: /*エフェクト*/
 
-requirements: {
+inputItems: {
 lead/30
 silicon/25
 }
