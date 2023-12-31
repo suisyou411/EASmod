@@ -8,10 +8,10 @@ hasItems: true
 craftTime: 60
 updateEffect: /*エフェクト*/
 
-inputItems: {
+requirements: {
 lead/30
 silicon/25
-}
+
 category: crafting
 research: core
 alwaysUnlocked: true
