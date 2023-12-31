@@ -10,7 +10,8 @@ updateEffect: /*エフェクト*/
 
 requirements: {
  lead/30
- silicon/25}
+ silicon/25
+}
 category: crafting
 research: core
 alwaysUnlocked: true
