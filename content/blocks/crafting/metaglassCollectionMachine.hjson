@@ -5,9 +5,12 @@ outputItem: metaglass/1
 size: 2
 hasPower: true
 hasItems: true
-craftTime: 60
+craftTime: 90
 //updateEffect: /*エフェクト*/
 
+consumes: {
+power: 1
+}
 requirements: [
 lead/30
 silicon/25
