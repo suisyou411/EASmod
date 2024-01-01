@@ -9,7 +9,7 @@ craftTime: 90
 //updateEffect: /*エフェクト*/
 
 consumes: {
-power: 1
+power: 4
 }
 requirements: [
 lead/30
