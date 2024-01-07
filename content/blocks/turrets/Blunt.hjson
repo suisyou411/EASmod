@@ -1,4 +1,5 @@
-priority:turret
+name: 青鈍
+priority: turret
 update:	true
 solid:	true
 layer:	turret
