@@ -1,4 +1,4 @@
-priority:	turret
+priority:turret
 update:	true
 solid:	true
 layer:	turret
