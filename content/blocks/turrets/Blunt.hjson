@@ -1,4 +1,5 @@
 name: 青鈍
+type: turret
 priority: turret
 update:	true
 solid:	true
