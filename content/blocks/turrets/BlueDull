@@ -1,0 +1,80 @@
+name: HyperBallista
+description: "りぃさるぅえぽん"
+type: itemTurret
+category: turret
+size: 7
+hasPower: true
+hasLiquids: true
+liquidCapacity: 60
+hasItems: true
+itemCapacity: 10
+
+ammoPerShot: 10
+ammoEjectBack: 1
+range: 1080	
+reload: 2700
+inaccuracy: 0.0
+shots: 1
+spread: 4	
+recoil: 0.25
+restitution: 1.0
+cooldown: 1350
+rotatespeed: 10
+shootEffect: lightningShoot
+ammoUseEffect: bigShockwave
+smokeEffect: shootBigSmoke2
+shootCone: 10
+shootShake: 0.1
+xRand: 0.0	
+
+#対象ユニットタイプ
+targetAir: true
+targetGround: true
+
+#必要なアイテム
+consumes:{
+power: 50
+liquid: {
+    liquid: LiquidGunPowder
+    amount: 10.000000000
+  }
+}
+ammoTypes:{
+  GoldCarrot:{ 
+    type: ligtningBulletType
+    damage: 12018
+    speed: 8
+    lifetime: 250
+    ammoPaerShot: 10
+    hitSize: 50
+    drawSize: 500.0
+    bulletWidth: 25
+    height: 100
+    ammoMultiplier: 1
+    pierce: true
+    pierceBuilding: true
+    bulletshrink: 1
+    trailEffect: artilleryTrail
+    hitEffect: blastExplosion
+    despawnEffect: bigShockwave
+    shootSound: shootBig
+    }
+}
+
+requirements: [
+//Seed/1
+  surge-alloy/ 2000
+  phase-fabric/ 900
+  plastanium/ 4000
+  titanium/ 1000
+  copper/ 800
+  silicon/ 1500
+]
+BuildVisibillity: shown
+
+research: {
+    parent: CoreSeeds
+    requirements: [
+        copper/30
+    ]
+}
