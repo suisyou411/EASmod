@@ -38,7 +38,7 @@ consumes:{
 power: 83
 }
 ammoTypes:{
-  GoldCarrot:{ 
+ copper :{ 
     type: ligtningBulletType
     damage: 600
    //↓あとで変える
