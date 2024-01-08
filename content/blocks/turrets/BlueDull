@@ -2,17 +2,19 @@ name: 青鈍
 description: 爆発する青い玉を発射する
 type: itemTurret
 category: turret
-size: 7
+size: 4
 hasPower: true
 hasLiquids: true
 liquidCapacity: 60
 hasItems: true
 itemCapacity: 10
 
-ammoPerShot: 10
+ammoPerShot: 4
 ammoEjectBack: 1
-range: 1080	
-reload: 2700
+range: 1
+//範囲の試し
+reload: 1
+//リロード時間
 inaccuracy: 0.0
 shots: 1
 spread: 4	
@@ -33,17 +35,14 @@ targetGround: true
 
 #必要なアイテム
 consumes:{
-power: 50
-liquid: {
-    liquid: LiquidGunPowder
-    amount: 10.000000000
-  }
+power: 83
 }
 ammoTypes:{
   GoldCarrot:{ 
     type: ligtningBulletType
-    damage: 12018
-    speed: 8
+    damage: 600
+   //↓あとで変える
+speed: 8
     lifetime: 250
     ammoPaerShot: 10
     hitSize: 50
@@ -62,19 +61,13 @@ ammoTypes:{
 }
 
 requirements: [
-//Seed/1
-  surge-alloy/ 2000
-  phase-fabric/ 900
-  plastanium/ 4000
-  titanium/ 1000
-  copper/ 800
-  silicon/ 1500
+//建設費用
 ]
 BuildVisibillity: shown
 
 research: {
-    parent: CoreSeeds
+    parent: corefirsts
     requirements: [
-        copper/30
+//研究費用
     ]
 }
