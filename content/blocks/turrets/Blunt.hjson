@@ -1,5 +1,6 @@
-name: 青鈍
-type: turret
+type : turret
+ name : 青鈍
+description : 小さな爆発する青い玉を発射します
 priority: turret
 update:	true
 solid:	true
