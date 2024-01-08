@@ -1,9 +1,109 @@
-type : turret
- name : 青鈍
-description : 小さな爆発する青い玉を発射します
-priority: turret
-update:	true
-solid:	true
-layer:	turret
-group:	turrets
-outlineIcon:	true
+name: 青鈍
+  description: 爆発する青い玉を発射します
+  type: Turret
+  category: turret
+  size: 4
+  health: 6500
+  targetable: false
+  squareSprites: false
+  
+  hasPower: true
+  hasLiquids: true
+  liquidcapacity: 360
+  
+  reload: 67
+  range: 240
+  recoil: 0
+  restitution: 0
+  rotatesspeed: 2.5
+  inaccuracy: 360
+  ammoPerShot: 10
+  shoot:{
+    shots: 30
+    shotDelay: 31
+  }
+  consumes: {
+    power: 10
+  }
+  
+  ammoTypes: {
+    cryofluid: {
+      type: basicBulletType
+      width: 10
+      drawsize: 100
+      hitsize: 5
+      bulletSprite: shell
+      topColor: FFFFFF
+      botomColor: FFFFFF
+
+      ammoMultiPlier: 1
+      reloadMultiprier: 2
+
+      lifetime: 500
+      speed: 0.5
+      weaveMag: 2.5
+      weaveScale: 10
+
+      damage: 0
+      status: freezing
+      statusDuration: 6000
+      hitEffect: hitBulletSmall
+      absorbable: true
+      pierce: true
+      pierceArmer: true
+        
+        fragOnHit: true
+        fragOnAbsobable: true
+        fragBullets: 2
+        fragRandumSpread: 1
+          fragBullet: {
+            type: basicBulletType
+            width: 1
+            drawsize: 10
+            hitsize: 1
+            bulletSprite: shell
+　　　　　　　　frontColor: FF1E1E
+            backColor: FF1E1E
+
+            speed: 300
+            keepVelocity: true
+            lifetime: 2
+            homingRange: 50
+            homingPower: 1
+
+            damage: 18
+            status: blasted
+            absorbable: false
+            pierce: true
+            pierceArmer: true
+        }
+      }
+    /*slag: {
+      type: basicBulletType
+      width: 10
+      drawsize: 100
+      hitsize: 5
+      bulletSprite: shell
+      topColor: 
+      color: 
+      botomColor: 
+
+      lifetime: 500
+      speed: 2
+      weaveMag: 5
+      weaveScale: 5
+
+      damage: 0
+      status: melting
+      statusDuration: 6000
+      hitEffect: hitBulletSmall
+      absorbable: true
+      pierce: true
+      pierceArmer: true
+      */
+    }
+requirements:[
+  Seed/ 1
+]
+buildVisibillity: shown
+alwaysUnlocked: true
