@@ -31,7 +31,7 @@ xRand: 0.0
 
 #対象ユニットタイプ
 targetAir: true
-targetGround: true
+targetGround: false
 
 #必要なアイテム
 consumes:{
@@ -45,7 +45,7 @@ ammoTypes:{
 speed: 3
     lifetime: 250
     ammoPaerShot: 10
-    hitSize: 50
+    hitSize: 5000
     drawSize: 500.0
     bulletWidth: 25
     height: 100
