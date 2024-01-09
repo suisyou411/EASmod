@@ -12,7 +12,7 @@ itemCapacity: 10
 
 ammoPerShot: 4
 ammoEjectBack: 1
-range: 10
+range: 200
 //範囲の試し
 reload: 1
 //リロード時間
