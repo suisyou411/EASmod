@@ -42,7 +42,7 @@ ammoTypes:{
     type: ligtningBulletType
     damage: 600
    //↓あとで変える
-speed: 0.5
+speed: 3
     lifetime: 250
     ammoPaerShot: 10
     hitSize: 50
