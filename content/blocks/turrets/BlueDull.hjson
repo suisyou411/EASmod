@@ -14,7 +14,7 @@ ammoPerShot: 4
 ammoEjectBack: 1
 range: 1
 //範囲の試し
-reload: 10
+reload: 1
 //リロード時間
 inaccuracy: 0.0
 shots: 1
