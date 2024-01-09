@@ -30,8 +30,8 @@ shootShake: 0.1
 xRand: 0.0	
 
 #対象ユニットタイプ
-targetAir: true
-targetGround: false
+targetAir: false
+targetGround: true
 
 #必要なアイテム
 consumes:{
