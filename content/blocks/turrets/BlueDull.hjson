@@ -16,7 +16,7 @@ range: 200/*これなにか分からない*/
 reload: 120
 //リロード時間
 inaccuracy: 0.0
-shots: 1
+shots: 100
 spread: 400
 recoil: 0.25
 restitution: 1.0
