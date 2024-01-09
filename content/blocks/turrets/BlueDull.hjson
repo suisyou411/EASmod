@@ -46,8 +46,8 @@ speed: 3
     lifetime: 250
     ammoPaerShot: 10
     hitSize: 50
-    drawSize: 50000
-    bulletWidth: 25
+    drawSize: 500
+    bulletWidth: 2500
     height: 100
     ammoMultiplier: 1
     pierce: true
