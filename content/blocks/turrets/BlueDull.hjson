@@ -16,8 +16,8 @@ range: 200/*これなにか分からない*/
 reload: 120
 //リロード時間
 inaccuracy: 0.0
-shots: 100
-spread: 400
+shots: 1
+spread: 4
 recoil: 0.25
 restitution: 1.0
 cooldown: 1350
@@ -42,7 +42,7 @@ ammoTypes:{
     type: ligtningBulletType
     damage: 600
    //↓あとで変える
-speed: 8
+speed: 0.5
     lifetime: 250
     ammoPaerShot: 10
     hitSize: 50
