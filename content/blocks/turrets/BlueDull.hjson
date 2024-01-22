@@ -41,7 +41,6 @@ ammoTypes:{
  copper :{ 
     type: ligtningBulletType
     damage: 600
-   //↓あとで変える
 speed: 3
     lifetime: 250
     ammoPaerShot: 10
