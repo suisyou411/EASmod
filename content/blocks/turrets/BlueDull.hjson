@@ -53,7 +53,7 @@ speed: 3
     pierceBuilding: true
     bulletshrink: 1
     trailEffect: artilleryTrail
-    hitEffect: blastExplosion
+    hitEffect: generate
     despawnEffect: bigShockwave
     shootSound: shootBig
     }
