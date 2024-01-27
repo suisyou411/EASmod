@@ -46,13 +46,13 @@ speed: 30
     lifetime: 1000
     ammoPaerShot: 10
     hitSize: 50
-    drawSize: 500
+    drawSize: 5000000
     bulletWidth: 5
     height: 5
     ammoMultiplier: 1
     pierce: true
     pierceBuilding: true
-    bulletshrink: 	10000
+    bulletshrink: 	10
     trailEffect: flakExplosionBig
     hitEffect: blastExplosion
     despawnEffect: flakExplosionBig
