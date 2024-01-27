@@ -55,7 +55,7 @@ speed: 3
     bulletshrink: 1
     //trailEffect: artilleryTrail
 trailEffect: blastExplosion
-    hitEffect: flakExplosion
+    hitEffect: blastExplosion
     despawnEffect: bigShockwave
     shootSound: shootBig
     }
