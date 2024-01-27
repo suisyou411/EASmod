@@ -52,7 +52,7 @@ speed: 30
     ammoMultiplier: 1
     pierce: true
     pierceBuilding: true
-    bulletshrink: 	0.7
+    bulletshrink: 	10000
     trailEffect: flakExplosionBig
     hitEffect: blastExplosion
     despawnEffect: flakExplosionBig
