@@ -52,9 +52,8 @@ speed: 30
     ammoMultiplier: 1
     pierce: true
     pierceBuilding: true
-    bulletshrink: 	0.7
-    //trailEffect: artilleryTrail
-trailEffect: flakExplosionBig
+    //bulletshrink: 	0.7
+    trailEffect: flakExplosionBig
     hitEffect: blastExplosion
     despawnEffect: bigShockwave
     shootSound: shootBig
