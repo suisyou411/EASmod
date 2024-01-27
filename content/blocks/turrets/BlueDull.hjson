@@ -42,7 +42,7 @@ ammoTypes:{
  copper :{ 
     type: BombBulletType
     damage: 600
-speed: 3
+speed: 30
     lifetime: 250
     ammoPaerShot: 10
     hitSize: 50
