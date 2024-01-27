@@ -40,7 +40,7 @@ power: 83
 }
 ammoTypes:{
  copper :{ 
-    type: missileExplosive
+    type: BombBulletType
     damage: 600
 speed: 3
     lifetime: 250
