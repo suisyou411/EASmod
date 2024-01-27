@@ -22,7 +22,8 @@ recoil: 0.25
 restitution: 1.0
 cooldown: 1350
 rotatespeed: 10
-shootEffect: lightningShoot
+//shootEffect: lightningShoot
+shootEffect: blastExplosion
 ammoUseEffect: bigShockwave
 smokeEffect: shootBigSmoke2
 shootCone: 10
