@@ -43,13 +43,13 @@ ammoTypes:{
     type: BombBulletType
     damage: 600
 speed: 3
-    lifetime: 2500
+    lifetime: 250
     ammoPaerShot: 10
     hitSize: 50
     drawSize: 500
     bulletWidth: 250
     height: 100
-    ammoMultiplier: 1
+    ammoMultiplier: 100
     pierce: true
     pierceBuilding: true
     bulletshrink: 	0.7
