@@ -23,8 +23,7 @@ restitution: 1.0
 cooldown: 1350
 rotatespeed: 10
 shootEffect: lightningShoot
-//ammoUseEffect: bigShockwave
-ammoUseEffect:explosion
+ammoUseEffect: bigShockwave
 smokeEffect: shootBigSmoke2
 shootCone: 10
 shootShake: 0.1
