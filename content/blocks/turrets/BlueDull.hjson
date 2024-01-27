@@ -45,7 +45,7 @@ ammoTypes:{
 speed: 3
     lifetime: 1000
     ammoPaerShot: 10
-    hitSize: 50000
+    hitSize: 500
     drawSize: 500
     bulletWidth: 5
     height: 5
