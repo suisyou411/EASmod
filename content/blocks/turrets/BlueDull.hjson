@@ -43,7 +43,7 @@ ammoTypes:{
     type: BombBulletType
     damage: 600
 speed: 30
-    lifetime: 250
+    lifetime: 1000
     ammoPaerShot: 10
     hitSize: 50
     drawSize: 500
@@ -52,7 +52,7 @@ speed: 30
     ammoMultiplier: 1
     pierce: true
     pierceBuilding: true
-    bulletshrink: 	500
+    bulletshrink: 	0.7
     trailEffect: flakExplosionBig
     hitEffect: blastExplosion
     despawnEffect: bigShockwave
