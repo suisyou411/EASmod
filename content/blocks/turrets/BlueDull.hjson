@@ -20,7 +20,7 @@ shots: 1
 spread: 4
 recoil: 0.25
 restitution: 1.0
-cooldown: 1350
+cooldown: 1
 rotatespeed: 10
 //shootEffect: lightningShoot
 shootEffect: blastExplosion
