@@ -20,7 +20,7 @@ shots: 1
 spread: 4
 recoil: 0.25
 restitution: 1.0
-cooldown: 1
+cooldown: 1350
 rotatespeed: 10
 //shootEffect: lightningShoot
 shootEffect: blastExplosion
@@ -45,7 +45,7 @@ ammoTypes:{
 speed: 3
     lifetime: 1000
     ammoPaerShot: 10
-    hitSize: 50
+    hitSize: 50000
     drawSize: 500
     bulletWidth: 5
     height: 5
