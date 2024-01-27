@@ -48,7 +48,7 @@ speed: 30
     hitSize: 50
     drawSize: 500
     bulletWidth: 250
-    height: 1
+    height: 5
     ammoMultiplier: 1
     pierce: true
     pierceBuilding: true
