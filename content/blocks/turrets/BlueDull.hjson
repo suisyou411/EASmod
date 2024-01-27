@@ -44,7 +44,8 @@ ammoTypes:{
     damage: 600
 speed: 3
     lifetime: 1000
-    drag: 0.05
+    //drag: 0.05
+    keepVelocity: false
     ammoPaerShot: 10000
     hitSize: 500
     drawSize: 500
