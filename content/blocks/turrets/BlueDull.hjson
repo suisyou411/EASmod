@@ -24,7 +24,7 @@ cooldown: 1350
 rotatespeed: 10
 shootEffect: lightningShoot
 //ammoUseEffect: bigShockwave
-ammoUseEffect:flakExplosion
+ammoUseEffect:Explosion
 smokeEffect: shootBigSmoke2
 shootCone: 10
 shootShake: 0.1
