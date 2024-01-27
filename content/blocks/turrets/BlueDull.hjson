@@ -55,7 +55,7 @@ speed: 30
     bulletshrink: 	0.7
     trailEffect: flakExplosionBig
     hitEffect: blastExplosion
-    despawnEffect: bigShockwave
+    despawnEffect: flakExplosionBig
     shootSound: shootBig
     }
 }
