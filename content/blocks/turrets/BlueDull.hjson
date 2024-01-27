@@ -49,7 +49,7 @@ speed: 3
     drawSize: 500
     bulletWidth: 250
     height: 100
-    ammoMultiplier: 100
+    ammoMultiplier: 1
     pierce: true
     pierceBuilding: true
     bulletshrink: 	0.7
