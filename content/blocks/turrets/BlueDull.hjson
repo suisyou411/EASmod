@@ -44,7 +44,7 @@ power: 83
 ammoTypes:{
  copper :{ 
     type: BombBulletType
-    Splashrange: 50
+    splashRadius: 50
     splashDamage: 550
 speed: 3
 
