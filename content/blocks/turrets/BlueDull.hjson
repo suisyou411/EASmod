@@ -61,7 +61,7 @@ speed: 3
     collidesAir: false
     trailEffect: flakExplosionBig
     hitEffect: blastExplosion
-    despawnEffect: plasticExplosionFlak
+    despawnEffect: dynamicExplosion
     shootSound: shootBig
     }
 }
