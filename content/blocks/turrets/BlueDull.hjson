@@ -4,6 +4,7 @@ description: 爆発する青い玉を発射する
 type: itemTurret
 category: turret
 size: 4
+health:6400
 hasPower: true
 hasLiquids: true
 liquidCapacity: 60
