@@ -44,7 +44,7 @@ ammoTypes:{
  copper :{ 
     type: BombBulletType
     damage: 600
-    SplashDamage: 550
+    splashDamage: 550
 speed: 3
 
     lifetime: 50
