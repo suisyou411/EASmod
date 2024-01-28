@@ -51,7 +51,7 @@ speed: 3
     lifetime: 50
     drag: 0
     keepVelocity: truth
-    ammoPaerShot: 100
+    //ammoPaerShot: 100
     //hitSize: 500
     drawSize: 500
     bulletWidth: 50
