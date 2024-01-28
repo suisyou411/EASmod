@@ -60,7 +60,7 @@ speed: 3
     bulletshrink: 	10
     collidesAir: false
     trailEffect: flakExplosionBig
-    hitEffect: blastExplosion
+    hitEffect: reactorExplosion
     despawnEffect: reactorExplosion
     shootSound: shootBig
     }
