@@ -46,7 +46,7 @@ ammoTypes:{
     damage: 600
 speed: 3
 
-    lifetime: 1000
+    lifetime: 10
     drag: 0
     keepVelocity: truth
     ammoPaerShot: 100
