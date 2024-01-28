@@ -43,6 +43,8 @@ ammoTypes:{
     type: BombBulletType
     damage: 600
 speed: 3
+    collidesTiles: false
+    collides: truth
     lifetime: 1000
     //drag: 0.05
     keepVelocity: truth
