@@ -43,7 +43,7 @@ ammoTypes:{
     type: BombBulletType
     damage: 600
 speed: 3
-    collidesTiles: false
+    collidesTiles: truth
     collides: truth
     lifetime: 1000
     //drag: 0.05
@@ -57,7 +57,7 @@ speed: 3
     pierce: true
     pierceBuilding: true
     bulletshrink: 	10
-    collidesAir: truth
+    collidesAir: false
     trailEffect: flakExplosionBig
     hitEffect: blastExplosion
     despawnEffect: flakExplosionBig
