@@ -46,6 +46,7 @@ ammoTypes:{
     damage: 600
 speed: 3
 
+    SplashDamage: 550
     lifetime: 50
     drag: 0
     keepVelocity: truth
