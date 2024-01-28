@@ -22,6 +22,8 @@ recoil: 0.25
 restitution: 1.0
 cooldown: 1350
 rotatespeed: 10
+    collidesTiles: truth
+    collides: truth
 //shootEffect: lightningShoot
 shootEffect: blastExplosion
 ammoUseEffect: bigShockwave
@@ -43,8 +45,7 @@ ammoTypes:{
     type: BombBulletType
     damage: 600
 speed: 3
-    collidesTiles: truth
-    collides: truth
+
     lifetime: 1000
     //drag: 0.05
     keepVelocity: truth
