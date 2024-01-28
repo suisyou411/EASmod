@@ -57,6 +57,7 @@ speed: 3
     pierce: true
     pierceBuilding: true
     bulletshrink: 	10
+    collidesAir: truth
     trailEffect: flakExplosionBig
     hitEffect: blastExplosion
     despawnEffect: flakExplosionBig
