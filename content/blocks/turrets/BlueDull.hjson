@@ -49,10 +49,10 @@ speed: 3
     lifetime: 1000
     drag: 0
     keepVelocity: truth
-    ammoPaerShot: 10000
+    ammoPaerShot: 100
     hitSize: 500
     drawSize: 500
-    bulletWidth: 20
+    bulletWidth: 50
     height: 20
     ammoMultiplier: 1
     pierce: true
