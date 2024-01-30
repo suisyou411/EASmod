@@ -14,7 +14,6 @@ itemCapacity: 10
 ammoPerShot: 4
 ammoEjectBack: 1
 //range: 200
-splashRadius: 5
 reload: 120
 //リロード時間
 inaccuracy: 0.0
@@ -46,7 +45,7 @@ ammoTypes:{
  copper :{ 
     type: BombBulletType
     splashDamage: 550
-    //splashRadius: 5
+    splashRadius: 5
 speed: 3
 
     lifetime: 50
