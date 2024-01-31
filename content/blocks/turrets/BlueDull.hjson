@@ -14,7 +14,7 @@ itemCapacity: 10
 ammoPerShot: 4
 ammoEjectBack: 1
 range: 200
-reload: 1200
+reload: 180
 //リロード時間
 inaccuracy: 0.0
 shots: 1
