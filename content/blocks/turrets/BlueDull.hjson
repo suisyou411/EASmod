@@ -1,6 +1,6 @@
 //制作中
 name: 青鈍
-description: 爆発する青い玉を発射する
+description: 爆発する小さい弾を発射する
 type: itemTurret
 category: turret
 size: 4
